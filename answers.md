@@ -21,3 +21,5 @@ $('#name').attr('placeholder', 'Identify yourself')
 $('#message').attr('placeholder', 'State your business')
 
 $('#name').attr('value', 'your nemesis')
+
+$('#email').attr('value', 'koalathebear@gmail.com')
