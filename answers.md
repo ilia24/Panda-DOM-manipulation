@@ -11,3 +11,5 @@ $('#time-travel').parent().remove();
 $('body').css('background-color', 'red')
 
 $('.highlight').css('color', 'lime');
+
+$('h1').css('font-family', 'monospace')
