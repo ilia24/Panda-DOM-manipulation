@@ -24,4 +24,8 @@ $('#name').attr('value', 'your nemesis')
 
 $('#email').attr('value', 'koalathebear@gmail.com')
 
-$('#submit').attr('value', 'en garde!')
+$('#submit').val(en garde!')
+
+bonus
+
+$('#submit').attr('disabled', true)
