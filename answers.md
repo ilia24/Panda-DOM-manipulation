@@ -13,3 +13,7 @@ $('body').css('background-color', 'red')
 $('.highlight').css('color', 'lime');
 
 $('h1').css('font-family', 'monospace')
+
+$('.action-icon-bg').css('background-color', 'blue')
+
+$('#name').attr('placeholder', 'Identify yourself')
