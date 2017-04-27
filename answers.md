@@ -9,3 +9,5 @@ $('#employment .info-title').text('LOL')
 $('#time-travel').parent().remove();
 
 $('body').css('background-color', 'red')
+
+$('.highlight').css('color', 'lime');
