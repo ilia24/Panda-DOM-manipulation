@@ -17,3 +17,5 @@ $('h1').css('font-family', 'monospace')
 $('.action-icon-bg').css('background-color', 'blue')
 
 $('#name').attr('placeholder', 'Identify yourself')
+
+$('#message').attr('placeholder', 'State your business')
