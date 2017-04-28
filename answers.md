@@ -31,3 +31,5 @@ bonus
 $('#submit').attr('disabled', true)
 
 $('.bio-info-item').empty()
+
+$('#right-image img').clone().appendTo('.portfolio-container')
