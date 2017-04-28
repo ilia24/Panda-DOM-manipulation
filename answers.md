@@ -29,3 +29,5 @@ $('#submit').val(en garde!')
 bonus
 
 $('#submit').attr('disabled', true)
+
+$('.bio-info-item').empty()
